@@ -1,0 +1,269 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: whitesmoke;
+}
+/*Header*/
+.first{
+    display: flex;
+    height: 45px;
+    background-color: #7851a9;
+    color: whitesmoke;
+}
+.logo{
+    margin: 8px;
+}
+.logo:hover{
+    cursor: pointer;
+}
+.nav{
+    display: flex;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+.nav li{
+    list-style-type: none;
+    margin: 8px 30px;
+}
+.nav li a{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.nav li a:hover{
+    color: #d2b7f3;
+}
+/*SECTION-1*/
+.bg{
+    background-image: url("../images/img-1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.bg h2{
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 50px;
+}
+/*SECTION - 2*/
+#sec-2{
+    margin: 30px 0;
+}
+#sec-2 h2{
+    text-align: center;
+    margin-bottom: 30px;
+    color: black;
+}
+.box{
+    width: 80%;
+    margin: 5px auto;
+    display: flex;
+    justify-content: space-around;
+}
+.img{
+    margin: 4px 0;
+    height: 100px;
+    color: white;
+}
+.box .cards{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.cards{
+    background-color: #7851a9;
+    height: 150px;
+    width: 15%;
+}
+.cards p{
+    text-align: center;
+    margin: 8px 0;
+}
+.cards a{
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.cards:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.3s;
+}
+.btn{
+    background-color: #7851a9;
+    border-radius: 5px;
+    padding: 8px;
+    color: whitesmoke;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: whitesmoke;
+    color: #7851a9;
+}
+/*SECTION - 3*/
+#sec-3{
+    width: 80%;
+    margin: 20px auto;
+    display: flex;
+}
+.box1{
+    height: 500px;
+    width: 40%;
+    margin-left: 20px;
+}
+.img2{
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+}
+.img2:hover{
+    cursor: pointer;
+    transform: scale(1.05);
+    transition: 0.5s;
+}
+.box2{
+    height: 200px;
+    width: 50%;
+    margin: auto 20px;
+    padding: 8px;
+}
+.box2 p{
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-bottom: 15px;
+}
+/*TOP ITINERARIES*/
+#sec-4{
+    width: 90%;
+    margin: 40px auto;
+}
+#sec-4 h2{
+    text-align: center;
+    margin-bottom: 15px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+.card-item{
+    width: 30%;
+    height: 350px;
+    margin: 10px 0;
+    border: 2px solid #7851a9;
+}
+.img3{
+    width: 100%;
+    height: 250px;
+    border-radius: 2px;
+}
+.card-item:hover{
+    transform: scale(1.03);
+    transition: 0.3s;
+    cursor: pointer;
+}
+.card-item h4{
+    text-align: center;
+    margin-bottom:6px;
+}
+.card-item a{
+    margin-left: 38%;
+}
+/*============ SECTION -5 ================*/
+#sec-5{
+    width: 60%;
+    margin: 40px auto;
+}
+.container-2{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+#sec-5 h2{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.cart{
+    width: 40%;
+    height: 150px;
+    margin: 10px 0;
+    border: 2px solid #7851a9;
+}
+.cart .btn{
+    border: 1px dotted black;
+    border-radius: 10px;
+    background-color: whitesmoke;
+    color: #7851a9;
+}
+.cart:hover{
+    transform: scale(1.05);
+    transition: 0.1s;
+    cursor: pointer;
+}
+.cart img{
+    height: 100px;
+    float: left;
+   margin: 5px;
+}
+.cart p{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*=========footer==========*/
+#last{
+    height: 40vh;
+    background-color: #7851a9;
+    display: flex;
+}
+.container-l{
+    width: 60%;
+    margin: 2%;
+    margin-left: 10%;
+    display: flex;
+}
+.table{
+    width: 25%;
+    margin: 0 15px;
+}
+.table-c{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 5px 0;
+}
+.table-c a{
+    color: white;
+    text-decoration: none;
+}
+.table-c a:hover{
+    text-decoration: underline;
+    color: #d2b7f3;
+}
+.social{
+    margin-top: 27px;
+}
+.icon{
+    margin-top: 5px;
+}
+.icon img{
+    height: 30px;
+}
+.res{
+    height: 18vh;
+    background-color: #7851a9;
+    text-align: center;
+}
+.res pre{
+    padding-top: 50px;
+    color: whitesmoke;
+}

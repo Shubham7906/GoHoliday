@@ -1,0 +1,105 @@
+@media only screen and (max-width: 800px){
+    .first{
+        height: 120px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .logo{
+        top: 0px;
+        position: absolute;
+        padding: 0;
+    }
+    .nav{
+        position: relative;
+        flex-direction: row;
+        margin-left: 35px;
+    }
+    .nav li{
+        margin: 0px;
+        padding: 0px 10px;
+    } 
+    .nav li:hover{
+        background-color: whitesmoke;
+        color: #7851a9;
+        border-radius: 5px;
+    }
+
+/*SECTION -1*/
+.bg h2{
+    text-align: center;
+}
+/*SECTION - 2*/
+#sec-2{
+    width: 80%;
+    margin: 10px auto;
+}
+.box{
+    flex-direction: column;
+}
+.box .cards{
+    width: 100%;
+    margin: 10px 0px;
+}
+
+/*SECTION - 3*/
+#sec-3{
+    margin-top: 30px;
+    margin-bottom: 80px;
+    flex-direction: column;
+}
+.box1{
+    width: 100%;
+    margin: 10px 0px;
+}
+.box2{
+    width: 100%;
+    margin: 10px 0px 0px 0px;
+    padding: 5px;
+}
+.box2 h3{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+/*SECTION 4*/
+#sec-4{
+    width: 80%;
+    margin: 50px auto;
+}
+.container{
+    flex-direction: column;
+}
+.card-item{
+    width: 100%;
+    margin: 10px auto;
+}
+/*SECTION 5*/
+#sec-5{
+    width: 90%;
+}
+.container-2{
+    flex-direction: column;
+}
+.cart{
+    width: 80%;
+    height: 180px;
+    margin: 10px auto;
+}
+/*========FOOTER==========*/
+.container-l{
+   /* width: 100%;
+    margin-top: 5px;
+    margin-bottom: 15px;*/
+    display: none;
+}
+#last{
+    display: none;
+}
+.res{
+    height: 20vh;
+}
+.res pre{
+    text-align: center;
+}
+}
