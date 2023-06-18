@@ -12,13 +12,3 @@ I built a responsive website with some animation effects using HTML, CSS, and Ja
 ![d5](https://github.com/Shubham7906/GoHoliday/assets/76210714/e3aaea36-704d-4359-89d0-1ce8651fec6f)
 ![d6](https://github.com/Shubham7906/GoHoliday/assets/76210714/d1032f26-29e2-4103-8d32-5ad180e180fb)
 
-## Phone View
-
-![IMG_20230619_004747](https://github.com/Shubham7906/GoHoliday/assets/76210714/7bae2a4f-c1ae-4e0e-8c1a-20e30ed00267)
-![IMG_20230619_004805](https://github.com/Shubham7906/GoHoliday/assets/76210714/a245e90d-e066-46ef-8cf3-2cc3764e6266)
-![IMG_20230619_004831](https://github.com/Shubham7906/GoHoliday/assets/76210714/3b52aa1c-87ad-4b47-8b33-91868331661b)
-![IMG_20230619_004847](https://github.com/Shubham7906/GoHoliday/assets/76210714/85a6a1bd-c82b-4697-8080-7df2a2c0e07b)
-![IMG_20230619_004903](https://github.com/Shubham7906/GoHoliday/assets/76210714/a16c712f-6e6a-4bf7-8ecb-71c3b1d43c6c)
-![IMG_20230619_004916](https://github.com/Shubham7906/GoHoliday/assets/76210714/527ab534-1d46-4a9a-860c-a5f937d6e9ca)
-![IMG_20230619_004933](https://github.com/Shubham7906/GoHoliday/assets/76210714/bf0b1933-6706-4e34-a221-f7f4ae879068)
-
