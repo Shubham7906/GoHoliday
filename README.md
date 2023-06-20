@@ -12,6 +12,9 @@ I built a responsive website with some animation effects using HTML, CSS, and Ja
 ![d5](https://github.com/Shubham7906/GoHoliday/assets/76210714/e3aaea36-704d-4359-89d0-1ce8651fec6f)
 ![d6](https://github.com/Shubham7906/GoHoliday/assets/76210714/d1032f26-29e2-4103-8d32-5ad180e180fb)
 
+
+
+
 ## Phone View
 
 ![IMG_20230619_004747](https://github.com/Shubham7906/GoHoliday/assets/76210714/80abc040-535b-4956-95f0-7116e5a53e5f)
